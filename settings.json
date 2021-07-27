@@ -10,6 +10,7 @@
 		"firstPath": "DocFlow/Правила конвертации DF2ACC/",
 		"secondPath": "ACC/Правила конвертации ACC2DF/",
 		"firstZip": "Правила обмена DF2ACC.zip",
-		"secondZip": "Правила обмена ACC2DF.zip"
+		"secondZip": "Правила обмена ACC2DF.zip",
+		"synckCorrAndExch": true
 	}
 }
